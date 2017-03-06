@@ -1,4 +1,5 @@
 def primechecker(numbers):
+	""" this is a function that checks my numbers"""
 	for number in numbers:
 		if number<2:
 			print ("It is not prime number")
